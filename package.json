@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-official",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yushan <yushanwebdev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.7"
+  }
+}
