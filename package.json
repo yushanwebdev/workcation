@@ -5,7 +5,8 @@
   "author": "yushan <yushanwebdev@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
