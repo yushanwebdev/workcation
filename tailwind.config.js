@@ -9,6 +9,9 @@ module.exports = {
           DEFAULT: "#0fa9e6",
         },
       },
+      fontFamily: {
+        poppins: ["'Poppins'", "sans-serif"],
+      },
     },
   },
   plugins: [],
